@@ -21,7 +21,7 @@ const config = {
     about: {
         title: "About Me",
         description: "Founder of <span class='highlight'>DeputyMods</span>, pushing the boundaries of development. Specializing in XML, Python and JS.",
-        mission: "Your mission statement goes here.",
+        mission: "",
         techStack: ["XML Dev", "JS Dev", "CS Dev", "HTML Dev"]
     },
     skills: {
@@ -43,18 +43,6 @@ const config = {
                 description: "Enhance your LSPDFR gameplay with dynamic pursuit callouts for a more immersive law enforcement experience.",
                 image: "assets/drpcbeta4.png",
                 link: "https://www.lcpdfr.com/downloads/gta5mods/scripts/48930-deputyryanspursuitcallouts/"
-            },
-            {
-                title: "Project 2",
-                description: "Description of project 2.",
-                image: "project2.jpg",
-                link: "https://project2.com"
-            },
-            {
-                title: "Project 3",
-                description: "Description of project 3.",
-                image: "project3.jpg",
-                link: "https://project3.com"
             }
             // Add more projects as needed
         ]
@@ -70,21 +58,19 @@ const config = {
             icon: "fab fa-discord",
             title: "Discord",
             value: "Join Our Community",
-            link: "https://discord.gg/your-discord-link"
+            link: "https://discord.gg/XDp9ESbaXz"
         },
         github: {
             icon: "fab fa-github",
             title: "GitHub",
             value: "Your-GitHub-Username",
-            link: "https://github.com/Your-GitHub-Username"
+            link: "https://github.com/deputyryan32"
         }
     },
     footer: {
-        copyright: "© 2024 Your Name - Your Company. All rights reserved.",
+        copyright: "© 2024 DeputyRyan - DeputyMods. All rights reserved.",
         socialLinks: [
-            { icon: "fab fa-linkedin", link: "https://linkedin.com/in/your-profile" },
-            { icon: "fab fa-github", link: "https://github.com/your-username" },
-            { icon: "fab fa-twitter", link: "https://twitter.com/your-username" }
+
         ]
     }
 };
