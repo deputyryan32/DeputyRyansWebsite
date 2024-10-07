@@ -1,7 +1,7 @@
 // config.js
 const config = {
     siteTitle: "DeputyRyan",
-    navLogo: "assets/deputyryan.webp",
+    navLogo: "Deputy",
     navLinks: [
         { text: "Home", href: "#home" },
         { text: "About", href: "#about" },
