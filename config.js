@@ -1,7 +1,7 @@
 // config.js
 const config = {
     siteTitle: "DeputyRyan",
-    navLogo: "Deputy",
+    navLogo: "DeputyMods",
     navLinks: [
         { text: "Home", href: "#home" },
         { text: "About", href: "#about" },
